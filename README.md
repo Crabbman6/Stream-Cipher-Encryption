@@ -1,6 +1,6 @@
 # Stream-Cipher-Encryption
 
-This repository contains a Python implementation of a simple stream cipher for encrypting and decrypting messages. 
+This repository contains a Python implementation of a simple stream cipher for encrypting and decrypting messages. This was completed as part of my Cryptography module during my time at university.
 
 ## Features
 
